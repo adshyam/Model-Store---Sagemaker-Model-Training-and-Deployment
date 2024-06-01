@@ -1,0 +1,2 @@
+# Model-Store---Sagemaker-Model-Training-and-Deployment
+I created a Model Group in AWS Sagemaker to track all experiments and deployment history for the model, and  I developed a Model Package to record information on a specific model experiment and deployment. Lastly, I created a Model Card that contains qualitative information for anyone who needs to maintain the model after its initial development.
